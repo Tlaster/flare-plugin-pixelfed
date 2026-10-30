@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "apiVersion": 1,
   "id": "dev.dimension.flare.sample.pixelfed",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "defaultLocale": "en",
   "name": {
     "key": "plugin.name",
